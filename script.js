@@ -1,3 +1,4 @@
 function sayHello() {
-  alert("Welcome to my first Netlify Website! 🎉");
+  alert("Welcome to my Website! 🎉");
 }
+
